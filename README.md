@@ -12,7 +12,7 @@ The process of building and verifying a quantum note with the Weisner Protocol i
 <li>Show the verfication process of a valid note by a Bank</li>
 <li>Show a forgery attempt by an Adversary (including failed verification)</li>
 <li>Discuss Drawbacks of weisner scheme</li>
-<li>Break/Forge Weisner notes if bank returns invalid notes (if time permits)</li>
+<li>Break/Forge Weisner notes if bank returns invalid notes</li>
 <ul>
 <li>Show the standard trial and error attack (bank can detect forgeries)</li>
 <li>Show an adaptive attack (bank can't detect with high prob )</li>
